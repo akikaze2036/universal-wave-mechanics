@@ -21,7 +21,7 @@
 
 [Prediction / Conceptual Model] <br>
 **Universal Wave Mechanics** <br>
-*Formerly: 4D Invariant Bulk Cosmology* <br>
+*4D Invariant Bulk Cosmology Ver2.0* <br>
 <br>
 4D Invariant Bulk Cosmology set out to explain the universe through waves. <br>
 Through ongoing verification and discussion, that framework has been shaped into the main treatise. <br>
