@@ -6,11 +6,16 @@
 
 > **Note**  <br>
 > **Language / 言語:** **[English (PAPER.en.md)](./PAPER.en.md)** | **日本語**. <br>
-> **ライセンス:** CC-BY 4.0  <br>
-> **著者アイデア:** 秋風 (Aki Kaze) / 秋 譲治 (Aki Jorge) <br>
-> **構成・数式構築:** Google Gemini  <br>
+> **Overview / 概要** **[English (README.en.md)](./README.en.md)** | **日本語** <br>
+> **License / ライセンス:** CC-BY 4.0  <br>
+> **Concept & Theory / 著者アイデア:** 秋風 (Aki Kaze) / 秋 譲治 (Aki Jorge) <br>
+> **Formalization & Equations / 構成・数式構築:** Google Gemini  <br>
 > ※ 本ドキュメントはアイデアの未検証のたたき台であり、統合理論に向けた概念モデルです。<br>
-> ※ 秋風の宇宙理論アイデアを「Google Gemini」と何度も対話して理論を固め、「Google Gemini」が方程式と論文を作成しました。<br>
+> ※ 本理論は、宇宙の舞台である「母体」を中心に据えた『4次元不変母体宇宙論』をベースに検証・検討を重ね、母体から「万有（すべてのものに働く波と作用）」へと射程を広げた継承・発展モデル（Ver.2.0）です。<br>
+> ※ 秋風の宇宙理論アイデアを「Google Gemini」と何度も対話して理論を固め、「Google Gemini」が方程式と論文を作成しました。
+
+---
+
 
 <br>
 
