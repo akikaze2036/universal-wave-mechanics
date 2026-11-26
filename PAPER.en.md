@@ -5,13 +5,16 @@
 <br>
 
 > **Note**  <br>
-> **Language / 言語:** **English** | **[日本語 (PAPER.md)](./PAPER.md)**. <br>
-> **License / ライセンス:** CC-BY 4.0  <br>
-> **Author / 著者アイデア:** Aki Kaze (秋風) / Aki Jorge (秋 譲治) <br>
-> **Structure & Equations / 構成・数式構築:** Google Gemini  <br>
+> **Language / 言語:** **English** | **[日本語 (PAPER.md)](./PAPER.md)** <br>
+> **Overview / 概要:** **[English (README.en.md)](./README.en.md)** | **[日本語 (README.md)](./README.md)** <br>
+> **License:** CC-BY 4.0  <br>
+> **Concept & Theory:** Aki Kaze (秋風) / 秋 譲治 (Aki Jorge) <br>
+> **Formalization & Equations:** Google Gemini  <br>
 > ※ This document is an untested working draft and a conceptual model toward a unified theory.<br>
-> ※ Aki Kaze's cosmological ideas were refined through iterative dialogue with Google Gemini, which formulated the equations and drafted this paper.<br>
+> ※ Building upon *4D Invariant Matrix Cosmology*—which focused primarily on the cosmic "Matrix"—this model (Ver.2.0) extends the framework to encompass wave behavior and actions governing all things (*Universal Wave Mechanics*).<br>
+> ※ Aki Kaze's cosmological ideas were refined through iterative dialogue with Google Gemini, which formulated the equations and drafted this paper.
 
+---
 
 ## Introduction
 ### Rethinking Everything Through Energy Density Variations and Wave Behavior
