@@ -5,7 +5,7 @@
 <br>
 
 > **Note**  <br>
-> **Language / 言語:** **[English (README.en.md)](./README.en.md)** | **日本語**. <br>
+> **Language / 言語:** **[English (PAPER.en.md)](./PAPER.en.md)** | **日本語**. <br>
 > **ライセンス:** CC-BY 4.0  <br>
 > **著者アイデア:** 秋風 (Aki Kaze) / 秋 譲治 (Aki Jorge) <br>
 > **構成・数式構築:** Google Gemini  <br>
